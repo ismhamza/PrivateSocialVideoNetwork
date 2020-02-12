@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PrivateSocialVideoNetwork/static/css/main.d1b05096.chunk.css",
+    "main.js": "/PrivateSocialVideoNetwork/static/js/main.60a66689.chunk.js",
+    "main.js.map": "/PrivateSocialVideoNetwork/static/js/main.60a66689.chunk.js.map",
+    "runtime-main.js": "/PrivateSocialVideoNetwork/static/js/runtime-main.6c744ff7.js",
+    "runtime-main.js.map": "/PrivateSocialVideoNetwork/static/js/runtime-main.6c744ff7.js.map",
+    "static/js/2.2a2db8e3.chunk.js": "/PrivateSocialVideoNetwork/static/js/2.2a2db8e3.chunk.js",
+    "static/js/2.2a2db8e3.chunk.js.map": "/PrivateSocialVideoNetwork/static/js/2.2a2db8e3.chunk.js.map",
+    "index.html": "/PrivateSocialVideoNetwork/index.html",
+    "precache-manifest.1dff0264f46c9829573a1a61fb94eb21.js": "/PrivateSocialVideoNetwork/precache-manifest.1dff0264f46c9829573a1a61fb94eb21.js",
+    "service-worker.js": "/PrivateSocialVideoNetwork/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/PrivateSocialVideoNetwork/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2a2db8e3.chunk.js.LICENSE.txt": "/PrivateSocialVideoNetwork/static/js/2.2a2db8e3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PrivateSocialVideoNetwork/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c744ff7.js",
+    "static/js/2.2a2db8e3.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.60a66689.chunk.js"
+  ]
+}
