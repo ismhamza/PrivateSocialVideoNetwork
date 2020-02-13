@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/PrivateSocialVideoNetwork/static/css/main.d1b05096.chunk.css",
-    "main.js": "/PrivateSocialVideoNetwork/static/js/main.c60894a6.chunk.js",
-    "main.js.map": "/PrivateSocialVideoNetwork/static/js/main.c60894a6.chunk.js.map",
+    "main.css": "/PrivateSocialVideoNetwork/static/css/main.de15fc08.chunk.css",
+    "main.js": "/PrivateSocialVideoNetwork/static/js/main.7c8ccdba.chunk.js",
+    "main.js.map": "/PrivateSocialVideoNetwork/static/js/main.7c8ccdba.chunk.js.map",
     "runtime-main.js": "/PrivateSocialVideoNetwork/static/js/runtime-main.6c744ff7.js",
     "runtime-main.js.map": "/PrivateSocialVideoNetwork/static/js/runtime-main.6c744ff7.js.map",
-    "static/js/2.2a2db8e3.chunk.js": "/PrivateSocialVideoNetwork/static/js/2.2a2db8e3.chunk.js",
-    "static/js/2.2a2db8e3.chunk.js.map": "/PrivateSocialVideoNetwork/static/js/2.2a2db8e3.chunk.js.map",
+    "static/js/2.afb60e9e.chunk.js": "/PrivateSocialVideoNetwork/static/js/2.afb60e9e.chunk.js",
+    "static/js/2.afb60e9e.chunk.js.map": "/PrivateSocialVideoNetwork/static/js/2.afb60e9e.chunk.js.map",
     "index.html": "/PrivateSocialVideoNetwork/index.html",
-    "precache-manifest.e9f5049213de4a17463c8cc0379f77a7.js": "/PrivateSocialVideoNetwork/precache-manifest.e9f5049213de4a17463c8cc0379f77a7.js",
+    "precache-manifest.510aeccb5cb9bef69284cd4d15316c86.js": "/PrivateSocialVideoNetwork/precache-manifest.510aeccb5cb9bef69284cd4d15316c86.js",
     "service-worker.js": "/PrivateSocialVideoNetwork/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/PrivateSocialVideoNetwork/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2a2db8e3.chunk.js.LICENSE.txt": "/PrivateSocialVideoNetwork/static/js/2.2a2db8e3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/PrivateSocialVideoNetwork/static/media/logo.5d5d9eef.svg"
+    "static/css/main.de15fc08.chunk.css.map": "/PrivateSocialVideoNetwork/static/css/main.de15fc08.chunk.css.map",
+    "static/js/2.afb60e9e.chunk.js.LICENSE.txt": "/PrivateSocialVideoNetwork/static/js/2.afb60e9e.chunk.js.LICENSE.txt",
+    "static/media/home-colored.svg": "/PrivateSocialVideoNetwork/static/media/home-colored.24686a97.svg",
+    "static/media/home.svg": "/PrivateSocialVideoNetwork/static/media/home.733358aa.svg",
+    "static/media/minus-circle-colored.svg": "/PrivateSocialVideoNetwork/static/media/minus-circle-colored.69982495.svg",
+    "static/media/minus-circle.svg": "/PrivateSocialVideoNetwork/static/media/minus-circle.b4879167.svg",
+    "static/media/open-menu.svg": "/PrivateSocialVideoNetwork/static/media/open-menu.03f54db7.svg",
+    "static/media/search.svg": "/PrivateSocialVideoNetwork/static/media/search.5437e521.svg",
+    "static/media/star-colored.svg": "/PrivateSocialVideoNetwork/static/media/star-colored.adf2d898.svg",
+    "static/media/star.svg": "/PrivateSocialVideoNetwork/static/media/star.a03ecccc.svg",
+    "static/media/wifi-colored.svg": "/PrivateSocialVideoNetwork/static/media/wifi-colored.d6ea69da.svg",
+    "static/media/wifi.svg": "/PrivateSocialVideoNetwork/static/media/wifi.49bacdef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6c744ff7.js",
-    "static/js/2.2a2db8e3.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c60894a6.chunk.js"
+    "static/js/2.afb60e9e.chunk.js",
+    "static/css/main.de15fc08.chunk.css",
+    "static/js/main.7c8ccdba.chunk.js"
   ]
 }

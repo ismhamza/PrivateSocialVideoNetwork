@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PrivateSocialVideoNetwork/precache-manifest.e9f5049213de4a17463c8cc0379f77a7.js"
+  "/PrivateSocialVideoNetwork/precache-manifest.510aeccb5cb9bef69284cd4d15316c86.js"
 );
 
 self.addEventListener('message', (event) => {
