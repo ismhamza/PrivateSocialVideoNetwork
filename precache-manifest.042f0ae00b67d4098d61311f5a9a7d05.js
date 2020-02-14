@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1c0cfab7d68ea4479434eb95c071376",
+    "revision": "108e2770d02a6ece302608b004049dec",
     "url": "/PrivateSocialVideoNetwork/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PrivateSocialVideoNetwork/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "28498d5095a24c1e324c",
+    "revision": "edf726af6742174417d2",
     "url": "/PrivateSocialVideoNetwork/static/css/main.2bbe128e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28498d5095a24c1e324c",
-    "url": "/PrivateSocialVideoNetwork/static/js/main.cc0fa2e1.chunk.js"
+    "revision": "edf726af6742174417d2",
+    "url": "/PrivateSocialVideoNetwork/static/js/main.15d57d68.chunk.js"
   },
   {
     "revision": "54160fc76288e6f2a3e0",

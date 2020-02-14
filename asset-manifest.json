@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PrivateSocialVideoNetwork/static/css/main.2bbe128e.chunk.css",
-    "main.js": "/PrivateSocialVideoNetwork/static/js/main.cc0fa2e1.chunk.js",
-    "main.js.map": "/PrivateSocialVideoNetwork/static/js/main.cc0fa2e1.chunk.js.map",
+    "main.js": "/PrivateSocialVideoNetwork/static/js/main.15d57d68.chunk.js",
+    "main.js.map": "/PrivateSocialVideoNetwork/static/js/main.15d57d68.chunk.js.map",
     "runtime-main.js": "/PrivateSocialVideoNetwork/static/js/runtime-main.6c744ff7.js",
     "runtime-main.js.map": "/PrivateSocialVideoNetwork/static/js/runtime-main.6c744ff7.js.map",
     "static/css/2.67123b20.chunk.css": "/PrivateSocialVideoNetwork/static/css/2.67123b20.chunk.css",
     "static/js/2.9a38ca17.chunk.js": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js",
     "static/js/2.9a38ca17.chunk.js.map": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js.map",
     "index.html": "/PrivateSocialVideoNetwork/index.html",
-    "precache-manifest.c58255ef12a6781618394961b2120f9a.js": "/PrivateSocialVideoNetwork/precache-manifest.c58255ef12a6781618394961b2120f9a.js",
+    "precache-manifest.042f0ae00b67d4098d61311f5a9a7d05.js": "/PrivateSocialVideoNetwork/precache-manifest.042f0ae00b67d4098d61311f5a9a7d05.js",
     "service-worker.js": "/PrivateSocialVideoNetwork/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/PrivateSocialVideoNetwork/static/css/2.67123b20.chunk.css.map",
     "static/css/main.2bbe128e.chunk.css.map": "/PrivateSocialVideoNetwork/static/css/main.2bbe128e.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/2.67123b20.chunk.css",
     "static/js/2.9a38ca17.chunk.js",
     "static/css/main.2bbe128e.chunk.css",
-    "static/js/main.cc0fa2e1.chunk.js"
+    "static/js/main.15d57d68.chunk.js"
   ]
 }
