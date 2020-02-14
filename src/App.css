@@ -16,7 +16,7 @@ General CSS
 html {
   font-size: 10px;
 }
-body {
+html body {
   position: relative;
   margin: 0;
   padding: 0;
@@ -157,4 +157,18 @@ hr {
   justify-content: center;
   padding-top: 15px;
   padding-bottom: 17px;
+}
+
+/* Reusable Classes */
+
+.d-flex {
+  display: flex !important;
+}
+
+.align-items-center {
+  align-items: center !important;
+}
+
+.justify-content-center {
+  justify-content: center !important;
 }

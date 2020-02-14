@@ -8,6 +8,7 @@ import WifiIcon from "./wifi.svg";
 import EndedIconColored from "./minus-circle-colored.svg";
 import EndedIcon from "./minus-circle.svg";
 import MenuIcon from "./open-menu.svg";
+import PlayIcon from "./play-button.svg";
 
 export {
   HomeIcon,
@@ -19,5 +20,6 @@ export {
   StarIconColored,
   WifiIconColored,
   EndedIconColored,
-  MenuIcon
+  MenuIcon,
+  PlayIcon
 };

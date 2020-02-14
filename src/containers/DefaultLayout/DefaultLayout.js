@@ -3,6 +3,7 @@ import DefaultAside from "./DefaultAside";
 import DefaultHeader from "./DefaultHeader";
 
 import "./DefaultLayout.css";
+import MainView from "./MainView";
 
 class DefaultLayout extends Component {
   constructor(props) {
@@ -16,6 +17,7 @@ class DefaultLayout extends Component {
         <DefaultAside />
         <div className="psvn-main-view">
           <DefaultHeader />
+          <MainView />
         </div>
       </div>
     );

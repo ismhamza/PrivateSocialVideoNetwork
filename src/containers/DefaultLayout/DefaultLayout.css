@@ -16,12 +16,6 @@
   height: 100%;
   background-color: #fff;
 }
-.psvn-header-wrapper {
-  position: relative;
-  width: 100%;
-  height: 62px;
-  background-color: #fff;
-}
 /* Default Aside CSS */
 .psvn-sidebar-logo-wrapper .psvn-sidebar-logo {
   padding: 1.6rem;
@@ -69,13 +63,58 @@
   margin-right: 10px;
   width: 22px;
 }
-.psvn-header-left-section {
+
+/* Default Header CSS */
+.psvn-header-wrapper {
+  position: relative;
   display: flex;
+  padding: 0 30px;
   align-items: center;
   justify-content: space-between;
+  height: 62px;
+  background-color: #fff;
+}
+.psvn-header-left-section {
   height: 100%;
-  margin-left: 20px;
 }
 .psvn-header-menu-icon {
   cursor: pointer;
+  margin-right: 40px;
+}
+.psvn-header-right-section ul li:first-child {
+  margin-right: 20px;
+}
+.psvn-header-right-section ul li a {
+  cursor: pointer;
+}
+
+/* Main View CSS */
+.psvn-main-view-wrapper {
+  padding: 30px;
+  height: calc(100vh - 122px);
+  width: calc(100% - 60px);
+}
+.psvn-main-view-video {
+  height: 200px;
+  background: #fff;
+  border-radius: 18px;
+}
+.psvn-main-view-video-content-wrapper {
+  padding: 10px;
+}
+.psvn-main-view-video-content-wrapper p {
+  font-family: var(--primary-font-family);
+  font-size: 14px;
+}
+.psvn-main-view-video-content-wrapper .psvn-tag {
+  position: absolute;
+  top: 10px;
+  padding: 1px 13px;
+  color: #fff;
+  text-transform: uppercase;
+  background: var(--primary-theme-color);
+  /* left: 40px; */
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 700;
 }
