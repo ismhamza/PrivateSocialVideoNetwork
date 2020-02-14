@@ -15,7 +15,7 @@ class MainView extends Component {
         <div className="psvn-main-view-video-container">
           <div className="psvn-main-view-video-wrapper">
             <div className="row">
-              <div className="col-sm-3">
+              <div className="col-sm-4">
                 <div className="psvn-main-view-video-wrapper">
                   <div className="psvn-main-view-video d-flex align-items-center justify-content-center">
                     <img className="play-icon" src={PlayIcon} alt="play" />
