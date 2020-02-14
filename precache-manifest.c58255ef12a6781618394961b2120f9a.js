@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "019b0f0a85b3631175a4aecf70308e51",
+    "revision": "e1c0cfab7d68ea4479434eb95c071376",
     "url": "/PrivateSocialVideoNetwork/index.html"
   },
   {
-    "revision": "9077dfe0d570f24cdf0c",
-    "url": "/PrivateSocialVideoNetwork/static/css/main.de15fc08.chunk.css"
+    "revision": "0d995b01efc624135c43",
+    "url": "/PrivateSocialVideoNetwork/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "8e1e2b5d984456227975",
-    "url": "/PrivateSocialVideoNetwork/static/js/2.afb60e9e.chunk.js"
+    "revision": "28498d5095a24c1e324c",
+    "url": "/PrivateSocialVideoNetwork/static/css/main.2bbe128e.chunk.css"
+  },
+  {
+    "revision": "0d995b01efc624135c43",
+    "url": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/PrivateSocialVideoNetwork/static/js/2.afb60e9e.chunk.js.LICENSE.txt"
+    "url": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9077dfe0d570f24cdf0c",
-    "url": "/PrivateSocialVideoNetwork/static/js/main.7c8ccdba.chunk.js"
+    "revision": "28498d5095a24c1e324c",
+    "url": "/PrivateSocialVideoNetwork/static/js/main.cc0fa2e1.chunk.js"
   },
   {
     "revision": "54160fc76288e6f2a3e0",
@@ -44,8 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PrivateSocialVideoNetwork/static/media/open-menu.03f54db7.svg"
   },
   {
-    "revision": "5437e5214c32dc0a8b1e3e3749edd831",
-    "url": "/PrivateSocialVideoNetwork/static/media/search.5437e521.svg"
+    "revision": "a44e04a92be726cf183be02d3f4dadb3",
+    "url": "/PrivateSocialVideoNetwork/static/media/play-button.a44e04a9.svg"
+  },
+  {
+    "revision": "c9ea331e802a75b3494a3f4975d5ff6d",
+    "url": "/PrivateSocialVideoNetwork/static/media/search.c9ea331e.svg"
   },
   {
     "revision": "adf2d898ef6858a75a0520476e3a7b52",
