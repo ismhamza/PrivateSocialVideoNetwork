@@ -11,10 +11,11 @@ class DefaultHeader extends Component {
   }
 
   render() {
+    let { onClickMenuIcon } = this.props;
     return (
       <div className="psvn-header-wrapper">
         <div className="d-flex align-items-center psvn-header-left-section">
-          <div className="psvn-header-menu-icon">
+          <div className="psvn-header-menu-icon" onClick={onClickMenuIcon}>
             <a className="d-flex" src="#home">
               <img src={MenuIcon} alt="menu" />
             </a>

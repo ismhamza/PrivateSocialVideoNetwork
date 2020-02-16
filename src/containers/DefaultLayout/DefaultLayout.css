@@ -16,6 +16,22 @@
   height: 100%;
   background-color: #fff;
 }
+.app-wrapper.icon-nav .psvn-sidebar-wrapper .psvn-sidebar-logo-wrapper {
+  display: none;
+}
+.app-wrapper.icon-nav .psvn-sidebar-wrapper .psvn-sidebar-list {
+  margin-top: 62px;
+}
+.app-wrapper.icon-nav .psvn-sidebar-wrapper .psvn-sidebar-list li .link-name {
+  display: none;
+}
+.app-wrapper.icon-nav .psvn-sidebar-wrapper {
+  width: 72px;
+}
+.app-wrapper.icon-nav .psvn-main-view {
+  left: 72px;
+  width: calc(100% - 72px);
+}
 /* Default Aside CSS */
 .psvn-sidebar-logo-wrapper .psvn-sidebar-logo {
   padding: 1.6rem;
@@ -66,13 +82,15 @@
 
 /* Default Header CSS */
 .psvn-header-wrapper {
-  position: relative;
+  position: sticky;
+  top: 0;
   display: flex;
   padding: 0 30px;
   align-items: center;
   justify-content: space-between;
   height: 62px;
   background-color: #fff;
+  z-index: 2;
 }
 .psvn-header-left-section {
   height: 100%;
@@ -95,16 +113,18 @@
   width: calc(100% - 60px);
 }
 .psvn-main-view-video {
-  height: 200px;
   background: #fff;
   border-radius: 18px;
 }
 .psvn-main-view-video-content-wrapper {
   padding: 10px;
 }
+.psvn-main-view-video-content-wrapper h1 {
+  font-size: 2rem;
+}
 .psvn-main-view-video-content-wrapper p {
   font-family: var(--primary-font-family);
-  font-size: 14px;
+  font-size: 1.2rem;
 }
 .psvn-main-view-video-content-wrapper .psvn-tag {
   position: absolute;

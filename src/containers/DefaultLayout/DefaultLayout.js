@@ -8,15 +8,20 @@ import MainView from "./MainView";
 class DefaultLayout extends Component {
   constructor(props) {
     super(props);
-    this.state = {};
+    this.state = {
+      iconSideBar: false
+    };
   }
-
+  toggleSideBar = () => {
+    this.setState({ iconSideBar: !this.state.iconSideBar });
+  };
   render() {
+    let { iconSideBar } = this.state;
     return (
-      <div className="app-wrapper">
+      <div className={`app-wrapper ${iconSideBar === true ? "icon-nav" : ""}`}>
         <DefaultAside />
         <div className="psvn-main-view">
-          <DefaultHeader />
+          <DefaultHeader onClickMenuIcon={this.toggleSideBar} />
           <MainView />
         </div>
       </div>
