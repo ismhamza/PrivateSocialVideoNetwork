@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "108e2770d02a6ece302608b004049dec",
+    "revision": "fd3571df1eaee4d06d3dd2c79ecaebb0",
     "url": "/PrivateSocialVideoNetwork/index.html"
   },
   {
-    "revision": "0d995b01efc624135c43",
+    "revision": "b31baf9d427b61b4b090",
     "url": "/PrivateSocialVideoNetwork/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "edf726af6742174417d2",
-    "url": "/PrivateSocialVideoNetwork/static/css/main.2bbe128e.chunk.css"
+    "revision": "be572e03b56abdc4fb41",
+    "url": "/PrivateSocialVideoNetwork/static/css/main.d85d6b75.chunk.css"
   },
   {
-    "revision": "0d995b01efc624135c43",
-    "url": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js"
+    "revision": "b31baf9d427b61b4b090",
+    "url": "/PrivateSocialVideoNetwork/static/js/2.e5c120f8.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js.LICENSE.txt"
+    "url": "/PrivateSocialVideoNetwork/static/js/2.e5c120f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edf726af6742174417d2",
-    "url": "/PrivateSocialVideoNetwork/static/js/main.15d57d68.chunk.js"
+    "revision": "be572e03b56abdc4fb41",
+    "url": "/PrivateSocialVideoNetwork/static/js/main.8b0d6606.chunk.js"
   },
   {
     "revision": "54160fc76288e6f2a3e0",

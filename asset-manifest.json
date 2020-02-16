@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PrivateSocialVideoNetwork/static/css/main.2bbe128e.chunk.css",
-    "main.js": "/PrivateSocialVideoNetwork/static/js/main.15d57d68.chunk.js",
-    "main.js.map": "/PrivateSocialVideoNetwork/static/js/main.15d57d68.chunk.js.map",
+    "main.css": "/PrivateSocialVideoNetwork/static/css/main.d85d6b75.chunk.css",
+    "main.js": "/PrivateSocialVideoNetwork/static/js/main.8b0d6606.chunk.js",
+    "main.js.map": "/PrivateSocialVideoNetwork/static/js/main.8b0d6606.chunk.js.map",
     "runtime-main.js": "/PrivateSocialVideoNetwork/static/js/runtime-main.6c744ff7.js",
     "runtime-main.js.map": "/PrivateSocialVideoNetwork/static/js/runtime-main.6c744ff7.js.map",
     "static/css/2.67123b20.chunk.css": "/PrivateSocialVideoNetwork/static/css/2.67123b20.chunk.css",
-    "static/js/2.9a38ca17.chunk.js": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js",
-    "static/js/2.9a38ca17.chunk.js.map": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js.map",
+    "static/js/2.e5c120f8.chunk.js": "/PrivateSocialVideoNetwork/static/js/2.e5c120f8.chunk.js",
+    "static/js/2.e5c120f8.chunk.js.map": "/PrivateSocialVideoNetwork/static/js/2.e5c120f8.chunk.js.map",
     "index.html": "/PrivateSocialVideoNetwork/index.html",
-    "precache-manifest.042f0ae00b67d4098d61311f5a9a7d05.js": "/PrivateSocialVideoNetwork/precache-manifest.042f0ae00b67d4098d61311f5a9a7d05.js",
+    "precache-manifest.aad39e5f95b9dcdc8755a77cb0bcee0f.js": "/PrivateSocialVideoNetwork/precache-manifest.aad39e5f95b9dcdc8755a77cb0bcee0f.js",
     "service-worker.js": "/PrivateSocialVideoNetwork/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/PrivateSocialVideoNetwork/static/css/2.67123b20.chunk.css.map",
-    "static/css/main.2bbe128e.chunk.css.map": "/PrivateSocialVideoNetwork/static/css/main.2bbe128e.chunk.css.map",
-    "static/js/2.9a38ca17.chunk.js.LICENSE.txt": "/PrivateSocialVideoNetwork/static/js/2.9a38ca17.chunk.js.LICENSE.txt",
+    "static/css/main.d85d6b75.chunk.css.map": "/PrivateSocialVideoNetwork/static/css/main.d85d6b75.chunk.css.map",
+    "static/js/2.e5c120f8.chunk.js.LICENSE.txt": "/PrivateSocialVideoNetwork/static/js/2.e5c120f8.chunk.js.LICENSE.txt",
     "static/media/home-colored.svg": "/PrivateSocialVideoNetwork/static/media/home-colored.24686a97.svg",
     "static/media/home.svg": "/PrivateSocialVideoNetwork/static/media/home.733358aa.svg",
     "static/media/minus-circle-colored.svg": "/PrivateSocialVideoNetwork/static/media/minus-circle-colored.69982495.svg",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.6c744ff7.js",
     "static/css/2.67123b20.chunk.css",
-    "static/js/2.9a38ca17.chunk.js",
-    "static/css/main.2bbe128e.chunk.css",
-    "static/js/main.15d57d68.chunk.js"
+    "static/js/2.e5c120f8.chunk.js",
+    "static/css/main.d85d6b75.chunk.css",
+    "static/js/main.8b0d6606.chunk.js"
   ]
 }
